@@ -4,7 +4,7 @@ Usage
 Run the application and go on http://localhost:8080/healthCheck to test the service status . Can hit directly from Google Chrome.
 Use the following urls to invoke controllers methods and see the interactions
 
-Base URL
+Base URL :
 http://localhost:8080
 Prerequisites
 
